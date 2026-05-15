@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/MainMenu.unity
+    guid: 6effbd0e882e53d4fb4269aac8432aac
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/CharacterSelectScene.unity
+    guid: 482a26c11ee76ce4b973db8817676a6e
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/ControllersScene.unity
+    guid: b7da09a000e49fb4986d83cba30a384e
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/NameInputScene.unity
+    guid: dd46404d1b1550d499009ec8c832cc2c
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/MiniGame_1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/MiniGame_2.unity
+    guid: b9619aa73328ee2418429000dfd6356d
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/MiniGame_3.unity
+    guid: 2399f0593f3416649aca63d2152391c2
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/MiniGame_4.unity
+    guid: d838b5210719711469be3fbe2fadfe62
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/CenaGameOver.unity
+    guid: e33ac685ab3f349478125353acd890b0
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/CenaWinGame.unity
+    guid: 46422db414f487d458e43a3ea4f6d82c
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/LeaderboardScene.unity
+    guid: 849609f610fccae478206f7146e8b4df
+  - enabled: 1
+    path: Assets/MiniGame1/Scenes/PromocaoNBA.unity
+    guid: bb3af95adef78074289844fc998dfb8f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
